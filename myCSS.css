@@ -21,7 +21,7 @@ body {
 	
 }
 .nav {
-	background: #768D99;
+	background: #E6D8C8;
 	margin: 0px;
 	padding: 5;
 	float: left;
@@ -38,7 +38,7 @@ body {
 	text-align: center;
 }
 .footer {
-	background: #E6D8C8;
+	background: #768D99;
 	margin: 0px;
 	float: left;
 	width: 100%;
